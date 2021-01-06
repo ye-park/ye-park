@@ -28,8 +28,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>&nbsp  
   <a href="mailto:yaeyae1204@naver.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yaeyae1204@naver.com
-"/>
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yaeyae1204@naver.com"/>
   </a>
 </p>
 <br>
