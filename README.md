@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=e3caed&height=300&section=header&text=yeeunpark&fontColor=fff&fontSize=90&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=wave&color=e3caed&height=150&section=header&text=yeeunpark&fontColor=fff&fontSize=70&animation=blink)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
